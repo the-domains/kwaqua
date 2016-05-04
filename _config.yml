@@ -1,6 +1,6 @@
 name: kwaqua
 favicon: null
-layout_spectrum: 0.70352
+layout_spectrum: 0.95729
 typography_spectrum: 0.16635
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#bcbcbc'
     - '#d8d8d8'
     - '#8f8f8f'
-  brandStrength: 0.4375
-  lightness: 0.625
+  brandStrength: 1
+  lightness: 0.75
   saturation: 0.75
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
