@@ -1,6 +1,6 @@
 name: kwaqua
 favicon: null
-layout_spectrum: 0.95729
+layout_spectrum: 0.82161
 typography_spectrum: 0.16635
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2c2b31'
+    - '#000000'
     - '#ffffff'
-    - '#ababad'
-    - '#1e96bc'
-    - '#953c1b'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.5
+    - '#004150'
+    - '#988791'
+    - '#009329'
+  brandStrength: 0.4375
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0
 purpose: []
