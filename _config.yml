@@ -1,0 +1,28 @@
+name: kwaqua
+favicon: null
+layout_spectrum: 0.1718017477542162
+typography_spectrum: 0.7743931158911437
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.18258148897439241
+  lightness: 0.9756004679948092
+  saturation: 0.864682937040925
+  rhythmicContrast: 0.26488400530070066
+purpose: []
